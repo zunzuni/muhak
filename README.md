@@ -1,4 +1,6 @@
 # 여행사 사이트
+[main page](https://zunzuniiitravelagency.netlify.app/index.html)
+[sub page](https://zunzuniiitravelagency.netlify.app/subpage/sub.html)
 코딩학원 수강 중 만들었던 반응형 사이트입니다.  
 이 프로젝트를 포트폴리오에 첨부한 이유는 저의 성장을 보여드리기 위함입니다.  
 html css도 제대로 이해하기 어려웠던 시기였습니다.  
