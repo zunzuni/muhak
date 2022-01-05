@@ -1,4 +1,4 @@
-# 여행사 사이트
+# 무학 사이트
 [main page](https://zunzuniiitravelagency.netlify.app/index.html)  
 [sub page](https://zunzuniiitravelagency.netlify.app/subpage/sub.html)  
 코딩학원 수강 중 만들었던 반응형 사이트입니다.  
